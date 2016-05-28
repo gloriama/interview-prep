@@ -1,0 +1,19 @@
+{
+  "name": "mocha-chai-suite",
+  "version": "1.0.0",
+  "description": "Test suite for Mocha and Chai",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gloriama/interview-prep.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
