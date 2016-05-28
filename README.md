@@ -1,7 +1,9 @@
 # interview-prep
 Materials for software engineering job interviews
 
-# Interview formats
+## About interviews
+
+### Interview formats
 * Onsite
   * Whiteboarding
   * Live coding
@@ -9,7 +11,7 @@ Materials for software engineering job interviews
   * Coding challenge
   * Phone screen
 
-# Interview environments
+### Interview environments
 * Whiteboard
 * Phone
 * Skype
@@ -19,10 +21,21 @@ Materials for software engineering job interviews
   * JSFiddle
 * Your laptop
 
-# Types of interview questions
+### Types of interview questions
 * Data structures / algorithms
 * System design
 * Facts / trivia
 * Personal
 * Full-stack app
 * Front-end UI
+
+## mocha-chai-suite
+This suite is a plug-and-play test suite for Mocha and Chai.
+
+### Instructions
+```
+cp -r mocha-chai-suite [new-directory-path]
+cd [new-directory-path]
+npm install
+mocha .
+```
